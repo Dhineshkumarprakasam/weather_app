@@ -1,0 +1,7 @@
+*.dart linguist-language=Dart
+*.cpp linguist-language=Ignore
+*.h linguist-language=Ignore
+*.c linguist-language=Ignore
+*.cc linguist-language=Ignore
+*.cmake linguist-language=Ignore
+CMakeLists.txt linguist-language=Ignore
