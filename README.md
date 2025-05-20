@@ -25,7 +25,7 @@ A simple weather app built using **Flutter**, **Dart**, and the **OpenWeatherMap
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather_app.git
+git clone https://github.com/Dhineshkumarprakasam/weather_app.git
 cd weather_app
 ```
 
