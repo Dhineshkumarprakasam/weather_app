@@ -11,9 +11,16 @@ A simple weather app built using **Flutter**, **Dart**, and the **OpenWeatherMap
 * Lightweight and easy to run
 
 ## Screenshots
+<table border=0px>
+  <tr>
+    <td><img src="Screenshots/Screenshot1.jpg" width="250" height="550" alt="App Screenshot - 1"/></td>
+    <td width="50">&nbsp;</td>
+    <td><img src="Screenshots/Screenshot2.jpg" width="250" height="550" alt="App Screenshot - 2"/></td>
+  </tr>
+</table>
 
 
-## 🛠️ How to Download and Use
+## How to Download and Use
 
 ### 1. Clone the Repository
 
